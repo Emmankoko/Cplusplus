@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1641950486 source:c:\users\hp\desktop\programming\clock function\main.cpp
+	<iostream>
+	<ctime>
+	<cmath>
+	<ctype.h>
+	<cstdlib>
+
