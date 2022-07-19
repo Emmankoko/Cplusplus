@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1646137408 source:c:\users\hp\desktop\programming\vector permutations\main.cpp
+	<iostream>
+	<vector>
+	<bits/stdc++.h>
+
